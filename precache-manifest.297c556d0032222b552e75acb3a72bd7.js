@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e29489af82d71f112d0d19066088c33",
+    "revision": "ef9e8a6e807c20f2e663b462adfd7d3d",
     "url": "/react-like-comment-app/index.html"
   },
   {
-    "revision": "07d9aba8847adf0eb69e",
+    "revision": "6d5beb0ef7027d777e6a",
     "url": "/react-like-comment-app/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-like-comment-app/static/js/2.8e5aedf1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07d9aba8847adf0eb69e",
-    "url": "/react-like-comment-app/static/js/main.90cfe410.chunk.js"
+    "revision": "6d5beb0ef7027d777e6a",
+    "url": "/react-like-comment-app/static/js/main.5dbb0948.chunk.js"
   },
   {
     "revision": "4a8420ce3fca4140c317",

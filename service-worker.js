@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-like-comment-app/precache-manifest.991138716c65d0f5aa987b7166ec78f8.js"
+  "/react-like-comment-app/precache-manifest.297c556d0032222b552e75acb3a72bd7.js"
 );
 
 self.addEventListener('message', (event) => {
